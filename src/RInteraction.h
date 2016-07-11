@@ -1,0 +1,16 @@
+#include <R.h>
+
+
+#ifndef RINTERACTIONTEST_RINTERACTION_H
+#define RINTERACTIONTEST_RINTERACTION_H
+
+
+class RInteraction {
+public:
+
+
+
+};
+
+
+#endif //RINTERACTIONTEST_RINTERACTION_H
